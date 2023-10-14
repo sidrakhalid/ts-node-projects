@@ -1,1 +1,2 @@
-# NPX Command: project00-calculator-sidrakhalid
+# NPX Command: 
+npx project00-calculator-sidrakhalid
